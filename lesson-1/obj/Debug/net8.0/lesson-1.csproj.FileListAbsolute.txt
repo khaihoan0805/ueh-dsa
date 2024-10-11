@@ -1,0 +1,14 @@
+/Users/orderedchaos1998/Documents/personal/ueh/ueh-dsa/lesson-1/bin/Debug/net8.0/lesson-1
+/Users/orderedchaos1998/Documents/personal/ueh/ueh-dsa/lesson-1/bin/Debug/net8.0/lesson-1.deps.json
+/Users/orderedchaos1998/Documents/personal/ueh/ueh-dsa/lesson-1/bin/Debug/net8.0/lesson-1.runtimeconfig.json
+/Users/orderedchaos1998/Documents/personal/ueh/ueh-dsa/lesson-1/bin/Debug/net8.0/lesson-1.dll
+/Users/orderedchaos1998/Documents/personal/ueh/ueh-dsa/lesson-1/bin/Debug/net8.0/lesson-1.pdb
+/Users/orderedchaos1998/Documents/personal/ueh/ueh-dsa/lesson-1/obj/Debug/net8.0/lesson-1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/orderedchaos1998/Documents/personal/ueh/ueh-dsa/lesson-1/obj/Debug/net8.0/lesson-1.AssemblyInfoInputs.cache
+/Users/orderedchaos1998/Documents/personal/ueh/ueh-dsa/lesson-1/obj/Debug/net8.0/lesson-1.AssemblyInfo.cs
+/Users/orderedchaos1998/Documents/personal/ueh/ueh-dsa/lesson-1/obj/Debug/net8.0/lesson-1.csproj.CoreCompileInputs.cache
+/Users/orderedchaos1998/Documents/personal/ueh/ueh-dsa/lesson-1/obj/Debug/net8.0/lesson-1.dll
+/Users/orderedchaos1998/Documents/personal/ueh/ueh-dsa/lesson-1/obj/Debug/net8.0/refint/lesson-1.dll
+/Users/orderedchaos1998/Documents/personal/ueh/ueh-dsa/lesson-1/obj/Debug/net8.0/lesson-1.pdb
+/Users/orderedchaos1998/Documents/personal/ueh/ueh-dsa/lesson-1/obj/Debug/net8.0/lesson-1.genruntimeconfig.cache
+/Users/orderedchaos1998/Documents/personal/ueh/ueh-dsa/lesson-1/obj/Debug/net8.0/ref/lesson-1.dll
